@@ -1,17 +1,141 @@
-<h1 align="center">Hi 👋, I'm Nethma Ponnamperuma</h1>
-<h3 align="center">Undergraduate at NIBM</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&height=80&lines=Hi+👋+I'm+Nethma+Ponnamperuma;2nd+Year+Software+Engineering+Student;Mobile+Dev+|+IoT+|+Cloud+Data+Architecture" alt="Typing SVG" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=nethma030128&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nethma030128&label=Profile%20views&color=0e75b6&style=flat" alt="nethma030128" /> </p>
+---
 
-- 📫 How to reach me **nethma.thathsarani03@gmail.com**
+# 👋 Welcome to My Profile!
 
-- ⚡ Fun fact **Call me as Nethma**
+I'm **Nethma**, a passionate **2nd-year Software Engineering student at NIBM** with a deep interest in mobile development, IoT solutions, and cloud data architecture. I love building impactful applications that solve real-world problems through innovative technology.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nethma ponnamperuma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nethma ponnamperuma" height="30" width="40" /></a>
-<a href="https://instagram.com/nethma_thathsarani30128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nethma_thathsarani30128" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Actively%20Building-brightgreen?style=flat-square" alt="Status"/>
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20ETL-blue?style=flat-square" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Location-Sri%20Lanka-orange?style=flat-square" alt="Location"/>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nethma030128&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethma030128&layout=compact&theme=radical&langs_count=8" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nethma030128&theme=radical" alt="GitHub Streak"/>
+</div>
+
+---
+
+I'm actively expanding my expertise in:
+- **Machine Learning**: Classification algorithms, regression models, and deep learning frameworks
+- **ETL Pipelines**: Building robust data extraction, transformation, and loading processes
+- **Cloud Infrastructure**: Designing scalable solutions on Google Cloud Platform
+
+---
+
+## 🛠️ Tech Stack
+
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Android%20Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+
+### ⚙️ IoT & Hardware
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+### 🗄️ Data & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Google%20Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+### 🔧 Tools & Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## 🏆 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| **Personal Finance & Bill Reminder App** | A feature-rich mobile application built with Flutter/Dart, implementing normalized database schema design and custom UI components for expense tracking and bill reminders. | Flutter, Dart, SQLite, Custom UI |
+| **IoT Tea Leaf Weighing System** | A hardware-software integration project combining Arduino microcontrollers with weight sensors for automated data collection and real-time weight detection with cloud synchronization. | Arduino, C++, Sensors, IoT |
+| **GCP Cloud Data Warehouse** | Enterprise-level cloud infrastructure project featuring VM instance setup, firewall configuration, ETL pipeline implementation, and data warehouse design on Google Cloud Platform. | GCP, SQL, ETL, Cloud Architecture |
+
+---
+
+## 🔗 All My Repositories
+
+<div align="center">
+  
+### 📚 Check out my projects on GitHub!
+
+[![nethma030128's GitHub repositories](https://img.shields.io/badge/View%20All%20Repos-Click%20Here-0e75b6?style=flat-square&logo=github)](https://github.com/nethma030128?tab=repositories)
+
+</div>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🚀 Most Recent Projects</h3>
+      <p>Visit my GitHub to explore:</p>
+      <ul align="left">
+        <li>📱 Mobile Apps (Flutter/Dart)</li>
+        <li>⚙️ IoT Solutions (Arduino)</li>
+        <li>☁️ Cloud Projects (GCP)</li>
+        <li>🗄️ Database Designs (MySQL/Oracle)</li>
+        <li>🔧 Web & Tools Projects</li>
+      </ul>
+    </td>
+    <td align="center" width="50%">
+      <h3>💡 Repository Highlights</h3>
+      <img src="https://img.shields.io/badge/Repositories-Actively%20Updated-success?style=flat-square" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Primary%20Language-Dart-02569B?style=flat-square&logo=dart" />
+      <img src="https://img.shields.io/badge/Secondary-C++-00599C?style=flat-square&logo=cplusplus" />
+      <img src="https://img.shields.io/badge/Cloud-GCP-4285F4?style=flat-square&logo=google-cloud" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📬 Get in Touch
+
+<div align="center">
+  
+### Let's Connect & Collaborate! 🚀
+
+[![Email](https://img.shields.io/badge/Email-nethma.thathsarani03%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nethma.thathsarani03@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nethma%20Ponnamperuma-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nethma-ponnamperuma)
+[![GitHub](https://img.shields.io/badge/GitHub-nethma030128-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nethma030128)
+[![Instagram](https://img.shields.io/badge/Instagram-nethma__thathsarani30128-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/nethma_thathsarani30128)
+
+---
+
+### 🎯 My Goals
+
+- 🏗️ Build scalable mobile and IoT solutions
+- 📊 Master machine learning and data engineering
+- ☁️ Become proficient in cloud architecture
+- 🤝 Contribute to open-source projects
+- 💼 Create products that make a real-world impact
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=flat-square" alt="Open to Opportunities"/>
+  <img src="https://img.shields.io/badge/Interested%20in-Collaborations-blue?style=flat-square" alt="Collaborations"/>
+  <br/><br/>
+  <strong>Let's build something amazing together! 🚀</strong>
+  <br/>
+  <em>Feel free to reach out anytime — I'm always excited to connect with fellow developers and innovators.</em>
+</div>
+
+
