@@ -33,14 +33,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nethma030128&theme=radical" alt="GitHub Streak"/>
 </div>
 
----
 
-I'm actively expanding my expertise in:
-- **Machine Learning**: Classification algorithms, regression models, and deep learning frameworks
-- **ETL Pipelines**: Building robust data extraction, transformation, and loading processes
-- **Cloud Infrastructure**: Designing scalable solutions on Google Cloud Platform
-
----
 
 ## 🛠️ Tech Stack
 
@@ -61,47 +54,6 @@ I'm actively expanding my expertise in:
 ### 🔧 Tools & Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
----
-
-
-
-## 🔗 All My Repositories
-
-<div align="center">
-  
-### 📚 Check out my projects on GitHub!
-
-[![nethma030128's GitHub repositories](https://img.shields.io/badge/View%20All%20Repos-Click%20Here-0e75b6?style=flat-square&logo=github)](https://github.com/nethma030128?tab=repositories)
-
-</div>
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🚀 Most Recent Projects</h3>
-      <p>Visit my GitHub to explore:</p>
-      <ul align="left">
-        <li>📱 Mobile Apps (Flutter/Dart)</li>
-        <li>⚙️ IoT Solutions (Arduino)</li>
-        <li>☁️ Cloud Projects (GCP)</li>
-        <li>🗄️ Database Designs (MySQL/Oracle)</li>
-        <li>🔧 Web & Tools Projects</li>
-      </ul>
-    </td>
-    <td align="center" width="50%">
-      <h3>💡 Repository Highlights</h3>
-      <img src="https://img.shields.io/badge/Repositories-Actively%20Updated-success?style=flat-square" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Primary%20Language-Dart-02569B?style=flat-square&logo=dart" />
-      <img src="https://img.shields.io/badge/Secondary-C++-00599C?style=flat-square&logo=cplusplus" />
-      <img src="https://img.shields.io/badge/Cloud-GCP-4285F4?style=flat-square&logo=google-cloud" />
-    </td>
-  </tr>
-</table>
-
----
-
 
 
 <div align="center">
