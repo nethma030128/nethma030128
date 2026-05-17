@@ -1,20 +1,24 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&height=80&lines=Hi+👋+I'm+Nethma+Ponnamperuma;2nd+Year+Software+Engineering+Student;Mobile+Dev+|+IoT+|+Cloud+Data+Architecture" alt="Typing SVG" />
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=nethma030128&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+
+# Hi 👋 I'm Nethma Ponnamperuma
+
+**2nd-Year Software Engineering Student at NIBM** | Sri Lanka
+
+[![Email](https://img.shields.io/badge/Email-nethma.thathsarani03%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nethma.thathsarani03@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nethma-ponnamperuma)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nethma030128)
+
 </div>
 
 ---
 
-# 👋 Welcome to My Profile!
+## About Me
 
-I'm **Nethma**, a passionate **2nd-year Software Engineering student at NIBM** with a deep interest in mobile development, IoT solutions, and cloud data architecture. I love building impactful applications that solve real-world problems through innovative technology.
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Actively%20Building-brightgreen?style=flat-square" alt="Status"/>
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20ETL-blue?style=flat-square" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Location-Sri%20Lanka-orange?style=flat-square" alt="Location"/>
-</div>
+- 🎓 Currently studying Software Engineering at NIBM
+- 📱 Passionate about mobile development and building user-centric applications
+- 🤖 Interested in Machine Learning
+- 💡 Love solving real-world problems through innovative technology
+- 🔧 Actively expanding expertise in ML, data engineering
 
 ---
 
@@ -60,15 +64,7 @@ I'm actively expanding my expertise in:
 
 ---
 
-## 🏆 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **Personal Finance & Bill Reminder App** | A feature-rich mobile application built with Flutter/Dart, implementing normalized database schema design and custom UI components for expense tracking and bill reminders. | Flutter, Dart, SQLite, Custom UI |
-| **IoT Tea Leaf Weighing System** | A hardware-software integration project combining Arduino microcontrollers with weight sensors for automated data collection and real-time weight detection with cloud synchronization. | Arduino, C++, Sensors, IoT |
-| **GCP Cloud Data Warehouse** | Enterprise-level cloud infrastructure project featuring VM instance setup, firewall configuration, ETL pipeline implementation, and data warehouse design on Google Cloud Platform. | GCP, SQL, ETL, Cloud Architecture |
-
----
 
 ## 🔗 All My Repositories
 
