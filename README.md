@@ -57,11 +57,6 @@
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=flat-square" alt="Open to Opportunities"/>
-  <img src="https://img.shields.io/badge/Interested%20in-Collaborations-blue?style=flat-square" alt="Collaborations"/>
-  <br/><br/>
-  <strong>Let's build something amazing together! 🚀</strong>
-  <br/>
   <em>Feel free to reach out anytime — I'm always excited to connect with fellow developers and innovators.</em>
 </div>
 
