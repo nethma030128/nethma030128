@@ -102,28 +102,7 @@ I'm actively expanding my expertise in:
 
 ---
 
-## 📬 Get in Touch
 
-<div align="center">
-  
-### Let's Connect & Collaborate! 🚀
-
-[![Email](https://img.shields.io/badge/Email-nethma.thathsarani03%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nethma.thathsarani03@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nethma%20Ponnamperuma-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nethma-ponnamperuma)
-[![GitHub](https://img.shields.io/badge/GitHub-nethma030128-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nethma030128)
-[![Instagram](https://img.shields.io/badge/Instagram-nethma__thathsarani30128-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/nethma_thathsarani30128)
-
----
-
-### 🎯 My Goals
-
-- 🏗️ Build scalable mobile and IoT solutions
-- 📊 Master machine learning and data engineering
-- ☁️ Become proficient in cloud architecture
-- 🤝 Contribute to open-source projects
-- 💼 Create products that make a real-world impact
-
----
 
 <div align="center">
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=flat-square" alt="Open to Opportunities"/>
